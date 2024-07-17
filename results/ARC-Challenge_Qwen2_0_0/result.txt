@@ -1,0 +1,5 @@
+Accuracy MCP: 0.3612040133779264
+Accuracy RAW: 0.1939799331103679
+Accuracy LN: 0.29431438127090304
+Accuracy UN: 0.26755852842809363
+Results saved to: results/ARC-Challenge_Qwen2_0_0/result.txt
